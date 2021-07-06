@@ -5,6 +5,7 @@ import './app.css'
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 import UserList from './pages/userList/UserList'
 import User from './pages/user/User'
+import NewUser from './pages/newUser/NewUser'
 
 function App() {
   return (
@@ -21,6 +22,9 @@ function App() {
           </Route>
           <Router path="/user/:userId">
             <User />
+          </Router>
+          <Router path="/newUser">
+            <NewUser />
           </Router>
         </Switch>
       </div>
