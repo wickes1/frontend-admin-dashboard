@@ -1,9 +1,15 @@
 import Topbar from './components/topbar/Topbar'
+import Sidebar from './components/sidebar/Sidebar'
+import './app.css'
+
 function App() {
   return (
     <div>
       <Topbar />
-      <img src="https://picsum.photos/200/3000" alt="" />
+      <div className="container">
+        <Sidebar />
+        <div className="others">other pages</div>
+      </div>
     </div>
   )
 }
