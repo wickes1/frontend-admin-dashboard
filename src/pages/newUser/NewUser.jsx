@@ -49,7 +49,6 @@ export default function NewUser() {
         </div>
         <button className="newUserButton">Create</button>
       </form>
-      <div className="newUserItem"></div>
     </div>
   )
 }
