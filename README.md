@@ -1,6 +1,6 @@
 # An Admin Dashboard
 
-This project was a tutorial produced by Lama Dev.
+This project was a tutorial provided by Lama Dev.
 
 ### Links
 
