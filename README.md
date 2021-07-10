@@ -1,11 +1,18 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/77f4b962-a5b5-45ba-b631-6e5d19f4910f/deploy-status)](https://app.netlify.com/sites/tender-einstein-ff7ec3/deploys)
 
-# An Admin Dashboard
+# Admin Dashboard Design
 
-This project was a tutorial provided by Lama Dev.
+An admin dashboard design
 
-### Links
+# Tech Stack
+
+- React
+
+# Showcase
+
+[Showcase for this repository on Netlify](https://week1-admin-dashboard.netlify.app)
+
+# Credits
 
 [Lama Dev's GitHub Repository](https://github.com/safak/youtube/tree/react-admin)  
-[Lama Dev's YouTube Tutorial](https://youtu.be/aTPkos3LKi8)  
-[Showcase for this repository on Netlify](https://1week-admin-dashboard.netlify.app/)
+[Lama Dev - React Admin Dashboard Tutorial | React Admin Panel Design Course for Beginners](https://youtu.be/aTPkos3LKi8)
