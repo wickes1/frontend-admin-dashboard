@@ -6,7 +6,9 @@ An admin dashboard design
 
 # Tech Stack
 
-- React
+- React 17
+- Recharts
+- Material-UI
 
 # Showcase
 
